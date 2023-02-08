@@ -1,2 +1,2 @@
-# Minesweeper-
+# Minesweeper++
 A little Minesweeper project :)
